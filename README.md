@@ -2,7 +2,7 @@
 
 Spring Boot Server 
 
-## Creating using command  
+## Created using command  
 
 java -jar swagger-codegen-cli-3.0.20.jar generate -i D:\_docs\beckn\ref\protocol-specifications-master\protocol-specifications-master\core\api\0.8.0\auth.json -l spring -o ./spring_auth_api
 
